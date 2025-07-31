@@ -40,8 +40,10 @@ pip install ttkbootstrap pygame Pillow
 - Clone this repository:
 
 ``` git clone https://github.com/WaleedAfridi-1/snake-gun-water-game.git
-cd Water-Snake-Gun-Game```
-```python snake_water_gun_game```
+cd Water-Snake-Gun-Game
+```
+```python snake_water_gun_game
+```
 
 
 ---
