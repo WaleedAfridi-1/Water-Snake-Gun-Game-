@@ -32,11 +32,11 @@ This is an interactive **Snake-Gun-Water** game built with Python using **ttkboo
 
 ```bash
 pip install ttkbootstrap pygame Pillow
-
+```
 ---
 
 
-## ▶️ How to Run
+ ## ▶️ How to Run
 - Clone this repository:
 
 git clone https://github.com/WaleedAfridi-1/snake-gun-water-game.git
